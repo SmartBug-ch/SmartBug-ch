@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sammy 👋
 
-<!--
-**SmartBug-ch/SmartBug-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student based in Switzerland with a strong focus on **Systems Engineering, Cybersecurity, and Software Development**. Focused on building resilient architectures, analyzing system vulnerabilities, and writing secure, reliable code from the ground up. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm currently working on
+- Deepening my knowledge in **IT/OT Security & Network Infrastructure**
+- Building and testing distributed & edge systems (Linux, Docker, Raspberry Pi)
+- Developing interactive, data-driven web applications with **TypeScript & React** 
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** Python, C, Java, Go, TypeScript / JavaScript
+- **Developer Tools:** Git & GitHub, Linux / Unix CLI, VS Code
+- **Systems & Infra:** Linux, Docker, Cloudflare Tunnels, Tailscale
+- **Core Interests:** Information Security, Distributed Systems, Edge Computing 
+
+---
+
+### 📬 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/sammy-bauknecht-090984131/)
+- 🌐 [Website](https://smartbug.ch)
+- ✉️ [E-Mail](mailto:samaku94@gmail.com)
