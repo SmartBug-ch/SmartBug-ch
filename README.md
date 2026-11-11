@@ -19,6 +19,6 @@ Computer Science student based in Switzerland with a strong focus on **Systems E
 ---
 
 ### 📬 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/sammy-bauknecht-090984131/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sammybauknecht/)
 - 🌐 [Website](https://smartbug.ch)
 - ✉️ [E-Mail](mailto:samaku94@gmail.com)
